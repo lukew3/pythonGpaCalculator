@@ -1,4 +1,1 @@
-# gpaCalculator
-# pythonGpaCalculator
-# pythonGpaCalculator
 # pythonGpaCalculator
